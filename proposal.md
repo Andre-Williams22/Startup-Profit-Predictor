@@ -39,17 +39,17 @@ A challenge that I anticipate would be setting up a database for authentication 
 
 **ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
 
-Build the flask route that takes in data from a form.
+- Build the flask route that takes in data from a form.
 
 **Start coding and finish “Skateboard” feature before beginning “Bike”.** 
 
 ## Bike
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
-Build machine learning model that predicts the ROI of a startup
+- Build machine learning model that predicts the ROI of a startup
 
 ## Car
 **ONE additional feature** 
-Build a database for user authentication 
+- Build a database for user authentication 
 
 ## Personal Achievement Goals:
 
