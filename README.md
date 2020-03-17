@@ -1,1 +1,2 @@
 # Startup-Profit-Predictor
+- This is a supervised machine learning problem that takes in data from previous startups and applies multiple linear regression to predict the ROI based on the amount of money spent in certain sections of the company.
