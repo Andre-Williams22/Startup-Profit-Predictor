@@ -47,7 +47,7 @@ A challenge that I anticipate would be setting up a database for authentication 
 
 ## Car
 **ONE additional feature** 
-- Find a larger that dataset with more features by querying an API for more information on startups.
+- Find a larger that dataset with more features by querying an API for more information on startups. This will provide more detailed information on the years the startup has been alive, series of funding, the industry the startup is in ect. Then learn how to apply multiple linear regression to make a prediction on the ROI for the VC. 
 
 ## Personal Achievement Goals:
 
