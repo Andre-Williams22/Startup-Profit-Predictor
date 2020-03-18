@@ -29,7 +29,7 @@ A challenge that I anticipate would be setting up a database for authentication 
 
 
 **List out the challenges you anticipate for completing this project**
-- machine learning model
+- machine learning model: multiple linear regression
 - Finding a dataset
 - Paywall 
 - Productionized database 
@@ -37,19 +37,17 @@ A challenge that I anticipate would be setting up a database for authentication 
 
 ## Skateboard
 
-**ONE SINGLE aspect of product. Consider: build backend for SPD 1.2 front end, CRUD one resource, use API or library, authentication etc.**
-
-- Build the flask route that takes in data from a form.
+- Build a basic flask application that takes in inputs for the amount of money an investor would like to spend on a startup and then provide a positive or negative ROI given what the company location and what parts of the company they invested in. The dataset I will start with is a kaggle dataset that shows a history of the amount of money and profit startups made with these columns: Marketing, RnD, Administration, Location and then their overall profit. The application will not yet provide a time frame and will not cover the funding the startup recieved to provide a prediction of the company's success. The investor should be able to type in the amount of money they want to invest in each part of the startup and provide the location of the startup in the form. Then I will provide an overall prediction based on these metrics if the startup is profitable.
 
 **Start coding and finish “Skateboard” feature before beginning “Bike”.** 
 
 ## Bike
 **ONE additional features that get you closer to your idealized product. Examples: CRUD 2nd resource, add comments, API use, authentication, library use** 
-- Build machine learning model that predicts the ROI of a startup
+- Do extensive data analysis on the dataset to answer questions like where are the most profitable startups located. Which part of the company needs the investment to be successful? I will use pandas, numpy, scipy, and seaborn for this data and statistical analysis.
 
 ## Car
 **ONE additional feature** 
-- Build a database for user authentication 
+- Find a larger that dataset with more features by querying an API for more information on startups.
 
 ## Personal Achievement Goals:
 
@@ -57,9 +55,10 @@ A challenge that I anticipate would be setting up a database for authentication 
 
 ### Teammate 1 Goals
 
-1. Host on Google Cloud
-2. Build a machine learning model
-3. Integrate a live database 
+1. Host in the cloud 
+2. Learn Multiple Linear Regression
+3. Integrate a live database
+4. Query an API for the data 
 
 
 
